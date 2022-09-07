@@ -1,8 +1,8 @@
 ## Wiliam Melo
 <div align="center">
   <a href="https://github.com/wiliammelo01">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wiliammelo01&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wiliammelo01&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wiliammelo01&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wiliammelo01&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
 
 <div style="margin: 0 auto;display:flex;align-items:center;justify-content:center;flex-wrap:wrap;gap:5px;"><br>
@@ -18,3 +18,4 @@
   <img align="center" alt="Rafa-CSS" height="30" width="70" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
   <img align="center" alt="Rafa-CSS" height="30" width="110" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
 </div>
+
