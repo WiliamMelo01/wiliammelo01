@@ -33,6 +33,10 @@
 ![MySQL](https://img.shields.io/badge/Mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white)
  
+ ## Test
+![Jest](https://img.shields.io/badge/Jest-%23000000.svg?style=plastic&logo=jest&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-%23000000.svg?style=plastic&logo=cypress&logoColor=white)
+ 
  ## Tools
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7)
