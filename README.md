@@ -32,6 +32,7 @@
  ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/Mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white)
+![Mongodb](https://img.shields.io/badge/Mongodb-%23316192.svg?style=plastic&logo=mongodb&logoColor=green)
  
  ## Test
 ![Jest](https://img.shields.io/badge/Jest-%23000000.svg?style=plastic&logo=jest&logoColor=white)
@@ -43,6 +44,7 @@
 ![Heroku](https://img.shields.io/badge/Heroku-%23430098.svg?style=plastic&logo=heroku&logoColor=white)
 ![Expo](https://img.shields.io/badge/Expo-1C1E24?style=plastic&logo=expo&logoColor=#D04A37) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-FFFFFF?style=plastic&logo=railway&logoColor=grey)
 
 # 📊 GitHub Stats:
 
