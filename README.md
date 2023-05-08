@@ -1,6 +1,6 @@
 # Hello 👋 i'm Wiliam
 
-🌱 I’m currently learning React, ReactNative, TypeScript and Nest.Js<br>
+🌱 I’m currently learning Next.js and Nest.Js<br>
 
 # 💻 Tech Stack:
 
