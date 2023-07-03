@@ -1,6 +1,5 @@
-# Hello 👋 i'm Wiliam
 
-🌱 I’m currently learning Flutter<br>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=100&pause=1000&color=F7F7F7&center=true&vCenter=true&width=1920&height=250&lines=Hello+i'm+Wiliam+Melo;Hello+i'm+a+Full+Stack+Developer)](https://git.io/typing-svg)
 
 # 💻 Tech Stack:
 
