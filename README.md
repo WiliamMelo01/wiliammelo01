@@ -1,6 +1,6 @@
 # Hello 👋 i'm Wiliam
 
-🌱 I’m currently learning Next.js and Nest.Js<br>
+🌱 I’m currently learning Flutter<br>
 
 # 💻 Tech Stack:
 
