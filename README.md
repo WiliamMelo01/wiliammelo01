@@ -1,5 +1,11 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=100&pause=1000&color=F7F7F7&center=true&vCenter=true&width=1920&height=250&lines=Hello+i'm+Wiliam+Melo;Hello+i'm+a+Full+Stack+Developer)](https://git.io/typing-svg)
+<img align="right" height="150" src="https://c.tenor.com/NeJfHqkmdMIAAAAj/tux-linux-penguin.gif"/>
+
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
 
 <h2 align="center">Stack</h2>
 
@@ -75,8 +81,8 @@
 
 <h2 align="center">Status</h2>
 <div align="center">
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WiliamMelo01&theme=transparent&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WiliamMelo01&theme=transparent)](https://github.com/WiliamMelo01)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=WiliamMelo01&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=transparent&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=WiliamMelo01&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=transparent&hide_border=false" height="150" alt="languages graph"  />
 </div>
+
+
